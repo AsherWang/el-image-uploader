@@ -1,6 +1,6 @@
 {
   "name": "el-image-uploader",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "element-ui el-image-uploader, work with `el-form` and `el-form-item`, validate image's filesize and size before uploading ",
   "main": "src/index.js",
   "scripts": {
@@ -12,8 +12,8 @@
     "url": "git@github.com:AsherWang/el-image-uploader.git"
   },
   "dependencies": {
-    "element-ui": "^2.0.0",
-    "vue": "^2.0.0"
+    "element-ui": ">=2.0.0",
+    "vue": ">=2.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.5",
