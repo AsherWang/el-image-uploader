@@ -1,0 +1,32 @@
+{
+  "name": "el-image-uploader",
+  "version": "0.1.1",
+  "description": "element-ui el-image-uploader, work with `el-form` and `el-form-item`, validate image's filesize and size before uploading ",
+  "main": "src/index.js",
+  "scripts": {
+    "demo": "vue-cli-service serve"
+  },
+  "homepage": "https://github.com/AsherWang/el-image-uploader",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AsherWang/el-image-uploader.git"
+  },
+  "dependencies": {
+    "element-ui": "^2.0.0",
+    "vue": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.5",
+    "@vue/cli-plugin-eslint": "^3.0.5",
+    "@vue/cli-service": "^3.0.5",
+    "@vue/eslint-config-airbnb": "^3.0.5",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "auther": "AsherWang",
+  "license": "MIT"
+}
