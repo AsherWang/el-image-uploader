@@ -2,6 +2,9 @@
 - 与 `el-form` 和 `el-form-item` 配合使用,上传前检查图片的文件大小和宽高  
 - work with `el-form` and `el-form-item`, validate image's filesize and size before uploading  
 
+#### demo
+[Click Me](https://asherwang.github.io/el-image-uploader/dist/)
+
 #### install  
 `npm i el-image-uploader -S`  
 #### usage  
