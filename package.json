@@ -4,7 +4,8 @@
   "description": "element-ui el-image-uploader, work with `el-form` and `el-form-item`, validate image's filesize and size before uploading ",
   "main": "src/index.js",
   "scripts": {
-    "demo": "vue-cli-service serve"
+    "demo": "vue-cli-service serve",
+    "build": "vue-cli-service build"
   },
   "homepage": "https://github.com/AsherWang/el-image-uploader",
   "repository": {
