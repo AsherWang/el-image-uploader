@@ -165,7 +165,7 @@ export default {
 
       // 附加参数
       if (this.data) {
-        Object.keys.forEach((key) => {
+        Object.keys(this.data).forEach((key) => {
           if (this.data[key] !== Function) {
             formData.append(key, this.data[key]);
           }

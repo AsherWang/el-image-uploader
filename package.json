@@ -1,6 +1,6 @@
 {
   "name": "el-image-uploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "element-ui el-image-uploader, work with `el-form` and `el-form-item`, validate image's filesize and size before uploading ",
   "main": "src/index.js",
   "scripts": {
